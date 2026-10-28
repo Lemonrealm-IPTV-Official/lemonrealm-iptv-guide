@@ -1,6 +1,6 @@
 # LemonRealm IPTV: Official Website, Free 24h Trial & Setup Guide
 
-[![LemonRealm: avoid copycat IPTV websites, the only official site is lemonrealm.com](https://lemonrealm.com/wp-content/uploads/2026/10/avoid-fake-lemonrealm-websites.jpg)](https://lemonrealm.com/)
+<p align="center"><a href="https://lemonrealm.com/"><img src="https://lemonrealm.com/wp-content/uploads/2026/10/avoid-fake-lemonrealm-websites.jpg" width="420" alt="LemonRealm: avoid copycat IPTV websites, the only official site is lemonrealm.com"></a></p>
 
 [![Official site](https://img.shields.io/badge/Official%20site-lemonrealm.com-d7ef4a?style=for-the-badge)](https://lemonrealm.com/)
 [![Free trial](https://img.shields.io/badge/Free%2024h%20trial-No%20card%20needed-0b0d12?style=for-the-badge)](https://lemonrealm.com/free-trial/)
