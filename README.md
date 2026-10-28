@@ -1,5 +1,7 @@
 # LemonRealm IPTV: Official Website, Free 24h Trial & Setup Guide
 
+[![LemonRealm: avoid copycat IPTV websites, the only official site is lemonrealm.com](https://lemonrealm.com/wp-content/uploads/2026/10/avoid-fake-lemonrealm-websites.jpg)](https://lemonrealm.com/)
+
 [![Official site](https://img.shields.io/badge/Official%20site-lemonrealm.com-d7ef4a?style=for-the-badge)](https://lemonrealm.com/)
 [![Free trial](https://img.shields.io/badge/Free%2024h%20trial-No%20card%20needed-0b0d12?style=for-the-badge)](https://lemonrealm.com/free-trial/)
 [![YouTube](https://img.shields.io/badge/YouTube-@LemonRealm-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LemonRealm)
@@ -52,6 +54,8 @@ Official prices in USD for 1 device ([see the live pricing page](https://lemonre
 - No refunds after purchase, which is why every plan can be tested with the free 24h trial first.
 - Prices shown on other websites using the LemonRealm name are not ours.
 
+[![Official LemonRealm prices on lemonrealm.com](https://lemonrealm.com/wp-content/uploads/2026/10/lemonrealm-official-prices.jpg)](https://lemonrealm.com/pricing/)
+
 *Prices last checked October 2026. The [pricing page](https://lemonrealm.com/pricing/) is always the source of truth.*
 
 ## How to log in to LemonRealm
@@ -84,7 +88,7 @@ Copycat sites copy the LemonRealm name and logo to take payments. To stay safe:
 3. If a deal looks different from the [official prices](https://lemonrealm.com/pricing/), it is not from us.
 4. Not sure? Ask us on [Telegram](https://t.me/lemonrealm) or email contact@lemonrealm.com.
 
-Read the full guide: [How to spot fake LemonRealm websites](https://lemonrealm.com/avoid-fake-lemonrealm-websites/) · [Is LemonRealm legit?](https://lemonrealm.com/is-lemonrealm-legit/)
+Read the full guide: [How to spot fake LemonRealm websites](https://lemonrealm.com/avoid-fake-lemonrealm-websites/) · [Is LemonRealm legit?](https://lemonrealm.com/is-lemonrealm-legit/) · [On Medium: Is LemonRealm legit?](https://medium.com/@lemonrealm/is-lemonrealm-legit-how-to-find-the-real-lemonrealm-com-and-avoid-fake-sites-35638d3527e0)
 
 ## Official LemonRealm links
 
@@ -98,6 +102,8 @@ Read the full guide: [How to spot fake LemonRealm websites](https://lemonrealm.c
 | 💬 Telegram | [t.me/lemonrealm](https://t.me/lemonrealm) |
 | 📝 Tumblr | [lemonrealm-iptv](https://www.tumblr.com/lemonrealm-iptv) |
 | ⭐ Trustpilot | [LemonRealm reviews](https://www.trustpilot.com/review/lemonrealm.com) |
+| 📰 Medium | [@lemonrealm](https://medium.com/@lemonrealm) |
+| 🔗 All links page | [lemonrealm-iptv-official.github.io](https://lemonrealm-iptv-official.github.io/) |
 | 📧 Support | contact@lemonrealm.com |
 
 ## LemonRealm FAQ
